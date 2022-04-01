@@ -1,5 +1,5 @@
 library(tidyverse)
-data <- read_csv("../laboratorinis/data/lab_sodra.csv")
+data <- read_csv("../../laboratorinis/data/lab_sodra.csv")
 
 summary(data)
 
